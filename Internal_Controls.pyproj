@@ -37,10 +37,12 @@
     <Folder Include="Internal_Controls\static\" />
     <Folder Include="Internal_Controls\static\content\" />
     <Folder Include="Internal_Controls\static\fonts\" />
+    <Folder Include="Internal_Controls\static\uploads\" />
     <Folder Include="Internal_Controls\static\scripts\" />
     <Folder Include="Internal_Controls\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Internal_Controls\templates\upload.html" />
     <Content Include="requirements.txt" />
     <Content Include="Internal_Controls\static\content\bootstrap.css" />
     <Content Include="Internal_Controls\static\content\bootstrap.min.css" />
